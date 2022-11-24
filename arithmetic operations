@@ -1,0 +1,27 @@
+a = 21
+b = 10
+c = 0
+c = a + b
+print("a+b is ",c)
+c = a - b
+print("a-b is ",c)
+c = a * b
+print ("a*b is ",c)
+c = a / b
+print("a/b is ",c)
+c = a % b
+print("a%b is ",c)
+c = a**b 
+print("a**b is ",c)
+c = a//b 
+print("a//b is ",c)
+
+Output
+------
+a+b is  31
+a-b is  11
+a*b is  210
+a/b is  2.1
+a%b is  1
+a**b is  16679880978201
+a//b is  2
